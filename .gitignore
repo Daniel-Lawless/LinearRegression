@@ -1,5 +1,0 @@
-# Ignore PyCharm config
-.idea/
-
-# Ignore the extra notebook
-LinearRegression.ipynb
